@@ -1,0 +1,169 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+body{
+    font-family: "Andika",sans-serif;
+    background-color: #E7DFD8;
+}
+
+.mikky-mouse{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1119px;
+    margin: 0 auto;
+    margin-bottom: 200px;
+    margin-top: 100px;
+}
+.mikky-mouse-img{
+    height: 500px;
+    width: 518px;
+}
+.number{
+    background-color: #B99FEA;
+    width: 74px;
+    height: 74px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 38px;
+    margin-right:19px ;
+}
+.mikky-mouse-number{
+    display: flex;
+    margin-bottom: 28px;
+    align-items: center;
+}
+.mikky-mouse-button{
+        font-family: "Andika",sans-serif;
+}
+.mikky-mouse-title{
+    font-size: 35px;
+    
+}
+.mikky-mouse-button{
+    font-size: 16px;
+    background-color: #B99FEA;
+    width: 183px;
+    height: 43px;
+}
+.mikky-mouse-text{
+    margin-bottom: 35px;
+    font-size: 14px;
+}
+.mikky-mouse-right{
+    margin-left: 100px;
+}
+
+
+
+.coco{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 1119px;
+   margin: 0 auto;
+   margin-bottom: 200px;
+}
+.coco-img{
+   height: 500px;
+   width: 518px;
+   order: 1;
+}
+.number2{
+   background-color: #EBA789;
+   width: 74px;
+   height: 74px;
+   border-radius: 50%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 38px;
+   margin-right:19px ;
+}
+.coco-number{
+   display: flex;
+   margin-bottom: 28px;
+   align-items: center;
+}
+.coco-button{
+       font-family: "Andika",sans-serif;
+}
+.coco-title{
+   font-size: 35px;
+}
+.coco-text{
+   font-size: 14px;
+}
+.coco-button{
+   font-size: 16px;
+   background-color: #EBA789;
+   width: 183px;
+   height: 43px;
+}
+
+.coco-text{
+   margin-bottom: 35px;
+}
+.coco-right{
+   margin-left: 100px;
+}
+.coco-title{
+    font-size: 35px;
+}
+.vayana{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1119px;
+    margin: 0 auto;
+    margin-bottom: 200px;
+    margin-top: 100px;
+}
+.vayana-img{
+    height: 500px;
+    width: 518px;
+}
+.number3{
+    background-color: #96DBC6;
+    width: 74px;
+    height: 74px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 38px;
+    margin-right:19px ;
+}
+.vayana-number{
+    display: flex;
+    margin-bottom: 28px;
+    align-items: center;
+}
+.vayana-button{
+        font-family: "Andika",sans-serif;
+}
+.vayana-title{
+    font-size: 35px;
+    
+}
+.vayana-button{
+    font-size: 16px;
+    background-color: #96DBC6;
+    width: 183px;
+    height: 43px;
+}
+.vayana-text{
+    margin-bottom: 35px;
+    font-size: 14px;
+}
+.vayana-right{
+    margin-left: 100px;
+}
+
+
+
+
